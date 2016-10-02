@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GC_ClassroomLibrary", "GC_ClassroomLibrary\GC_ClassroomLibrary.csproj", "{B8A9C7AC-39F1-426D-82B5-61BFC33DBF5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateClassroom", "CreateClassroom\CreateClassroom.csproj", "{773BE005-9BED-40F8-A3D3-003DA9808E8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{AF5AF3B4-4CF2-4639-A595-FA5EC7A78FBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8A9C7AC-39F1-426D-82B5-61BFC33DBF5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A9C7AC-39F1-426D-82B5-61BFC33DBF5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A9C7AC-39F1-426D-82B5-61BFC33DBF5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A9C7AC-39F1-426D-82B5-61BFC33DBF5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{773BE005-9BED-40F8-A3D3-003DA9808E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{773BE005-9BED-40F8-A3D3-003DA9808E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{773BE005-9BED-40F8-A3D3-003DA9808E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{773BE005-9BED-40F8-A3D3-003DA9808E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF5AF3B4-4CF2-4639-A595-FA5EC7A78FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF5AF3B4-4CF2-4639-A595-FA5EC7A78FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF5AF3B4-4CF2-4639-A595-FA5EC7A78FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF5AF3B4-4CF2-4639-A595-FA5EC7A78FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
